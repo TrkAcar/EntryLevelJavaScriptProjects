@@ -1,0 +1,57 @@
+.header{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 70px;
+}
+
+#value{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 70px;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.btn{
+    font-size: 25px;
+}
+
+.btn-dec{
+    border-radius: 15px;
+    margin-right: 65px;
+    transition-duration: 0.4s;
+}
+
+.btn-res{
+    border-radius: 5px;
+    transition-duration: 0.4s;
+}
+
+.btn-inc{
+    border-radius: 15px;
+    margin-left: 65px;
+    transition-duration: 0.4s;
+}
+
+.tako{
+    font-size: 30px;
+    margin-top: 520px;
+}
+
+#dec:hover{
+    color: white;
+    background-color: red;
+}
+
+#res:hover{
+    background-color: antiquewhite;
+}
+
+#inc:hover{
+    color: white;
+    background-color: green;
+}
